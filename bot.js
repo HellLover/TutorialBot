@@ -30,4 +30,4 @@ client.on("guildMemberRemove", member => {
   channel.send(`Пользователь ${member.user.tag} покинул наш сервер.`)
 })
 
-client.login(token);
+client.login(process.env.token);
