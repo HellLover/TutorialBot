@@ -9,10 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "discord.js": "^12.2.0",
-    "novelcovid": "^3.0.0",
-    "tankionline.js": "^2.0.3",
-    "twemoji-parser": "^13.0.0",
-    "ytsr": "^0.1.21"
+    "discord-logs": "^1.7.7",
+    "discord.js": "^12.2.0"
   }
 }
